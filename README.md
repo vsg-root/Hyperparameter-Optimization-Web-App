@@ -1,5 +1,8 @@
 # Hyperparameter-Optimization-Web-App
 
+Create [theme] - .streamlit/config.toml
+
+
 ![Image1](https://user-images.githubusercontent.com/108759490/189012802-5b166947-b914-4b96-88af-c6d76805f969.png)
 
 ![Image2](https://user-images.githubusercontent.com/108759490/189012830-51025943-6271-43c5-bda6-34fb02669571.png)
